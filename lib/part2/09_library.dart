@@ -17,7 +17,6 @@ class LibraryLayout extends StatelessWidget {
         body: const Body(),
       ),
     );
-    ;
   }
 }
 
