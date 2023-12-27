@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'game/game_body.dart';
+import 'game_body.dart';
 
 class RSPApp extends StatelessWidget {
   const RSPApp({super.key});
